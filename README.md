@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarahSu92
+- 👋 Hi, I’m Sarah.
 - 👀 I’m interested in to Studying Front End Deveolpment and later become practicing it.
 - 🌱 I’m currently learning Front End Developing at Medieinstitutet Stockholm.
 - 📫 How to reach me mail:sarah.sundberg@outlook.com
